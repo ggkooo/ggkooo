@@ -1,5 +1,6 @@
 ## Olá! Eu sou Giordano Bruno Biasi Berwig
 
+- 🎓 Estudante de Ciências da Computação - UNIJUÍ
 - 🔭 Freelancer front-end
 - 🌱 Estudando redes
 - 💬 Contate-me via email: programmer.giordano@gmail.com
@@ -14,8 +15,6 @@
   
 </div>
 
-##
-
 <div>
 
   <img align="center" alt="Giordano-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
@@ -26,5 +25,13 @@
   <img align="center" alt="Giordano-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Giordano-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg"/>
   <img align="center" alt="Giordano-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  
+</div>
+
+##
+
+<div align="cnter">
+
+  <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif"/>
   
 </div>
