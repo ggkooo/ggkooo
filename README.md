@@ -1,37 +1,51 @@
-## Olá! Eu sou Giordano Bruno Biasi Berwig
+# Olá, eu sou o Giordano Bruno Biasi Berwig 👋
 
-- 🎓 Estudante de Ciências da Computação - UNIJUÍ
-- 🔭 Freelancer front-end
-- 🌱 Estudando redes
-- 💬 Contate-me via email: programmer.giordano@gmail.com
+## 🧑‍💻 Sobre mim
+- 🎓 **Estudante de Ciências da Computação** na **UNIJUÍ**.
+- 💼 **Freelancer Front-End** com experiência em desenvolvimento de páginas dinâmicas.
+- 🌱 **Aprofundando os conhecimentos em PHP**.
+- 📧 **Entre em contato**: [programmer.giordano@gmail.com](mailto:programmer.giordano@gmail.com)
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+## 📚 Tecnologias que uso
+
+#### Desenvolvimento Front-End:
+- ![HTML5](https://img.shields.io/badge/-HTML5-FF5722?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+#### Desenvolvimento Back-End:
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+#### Ferramentas de desenvolvimento:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### Sistemas Operacionais:
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div>
-
-  <a href="https://github.com/ggkooo"></a>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=ggkooo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkooo&layout_compact=true&langs_count=16&theme=dark"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggkooo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkooo&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-<div>
+## 🚀 Projetos
 
-  <img align="center" alt="Giordano-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
-  <img align="center" alt="Giordano-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Giordano-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Giordano-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Giordano-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg"/>
-  <img align="center" alt="Giordano-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Giordano-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg"/>
-  <img align="center" alt="Giordano-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-  
-</div>
+Aqui estão alguns dos meus projetos mais recentes:
 
-##
+- [Projeto Site de Delivery](https://github.com/ggkooo/delivery-application) - Focado em realizar pedidos com integração da API do WhatsApp.
 
-<div align="cnter">
+## 📫 Como me encontrar
 
-  <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif"/>
-  
-</div>
+- 📧 Email: [programmer.giordano@gmail.com](mailto:programmer.giordano@gmail.com)
+- 💼 LinkedIn: [Giordano Bruno](https://br.linkedin.com/in/giordano-bruno-biasi-berwig-7182712b4)
+
+---
+
+**Vamos criar algo incrível juntos!** 🚀
