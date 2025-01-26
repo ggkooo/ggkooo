@@ -2,11 +2,11 @@
 
 ## 🧑‍💻 Sobre mim
 - 🎓 **Estudante de Ciências da Computação** na **UNIJUÍ**.
-- 💼 **Freelancer Front-End** com experiência em desenvolvimento de páginas dinâmicas.
-- 🌱 **Aprofundando os conhecimentos em PHP**.
-- 📧 **Entre em contato**: [programmer.giordano@gmail.com](mailto:programmer.giordano@gmail.com)
+- 💼 **Freelancer Full-Stack** com experiência em desenvolvimento de páginas dinâmicas e sistemas complexos.
+- 🌱 **Aprofundando os conhecimentos em PHP e JS**.
+- 📧 **Entre em contato**: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)
 
-## 📚 Tecnologias que uso
+## 📚 Tecnologias que utilizo
 
 #### Desenvolvimento Front-End:
 - ![HTML5](https://img.shields.io/badge/-HTML5-FF5722?style=flat-square&logo=html5&logoColor=white)
@@ -18,6 +18,7 @@
 #### Desenvolvimento Back-End:
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![NGINX](https://img.shields.io/badge/-NGINX-green?style=flat-square&logo=nginx&logoColor=white)
 
 #### Ferramentas de desenvolvimento:
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -40,10 +41,12 @@
 Aqui estão alguns dos meus projetos mais recentes:
 
 - [Projeto Site de Delivery](https://github.com/ggkooo/delivery-application) - Focado em realizar pedidos com integração da API do WhatsApp.
+- [Projeto Cafeteria Serenatto](https://github.com/ggkooo/serenatto) - Focado em utilizar ao máximo as facilidades do framework Bootstrap.
+- [Projeto Meteora Store](https://github.com/ggkooo/meteora-store) - Front-end voltada para o desenvolvimento de um e-commerce utilizando o framework Bootstrap.
 
 ## 📫 Como me encontrar
 
-- 📧 Email: [programmer.giordano@gmail.com](mailto:programmer.giordano@gmail.com)
+- 📧 Email: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)
 - 💼 LinkedIn: [Giordano Bruno](https://br.linkedin.com/in/giordano-bruno-biasi-berwig-7182712b4)
 
 ---
