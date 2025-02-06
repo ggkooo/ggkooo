@@ -3,7 +3,7 @@
 ## 🧑‍💻 Sobre mim
 - 🎓 **Estudante de Ciências da Computação** na **UNIJUÍ**.
 - 💼 **Freelancer Full-Stack** com experiência em desenvolvimento de páginas dinâmicas e sistemas complexos.
-- 🌱 **Aprofundando os conhecimentos em PHP e JS**.
+- 🌱 **Aprofundando os conhecimentos em PHP, C e C++**.
 - 📧 **Entre em contato**: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)
 
 ## 📚 Tecnologias que utilizo
