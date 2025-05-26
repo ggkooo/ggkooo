@@ -1,54 +1,52 @@
-# Olá, eu sou o Giordano Bruno Biasi Berwig 👋
+# 👨‍💻 Giordano Bruno Biasi Berwig
 
-## 🧑‍💻 Sobre mim
-- 🎓 **Estudante de Ciências da Computação** na **UNIJUÍ**.
-- 💼 **Freelancer Full-Stack** com experiência em desenvolvimento de páginas dinâmicas e sistemas complexos.
-- 🌱 **Aprofundando os conhecimentos em PHP, C e C++**.
-- 📧 **Entre em contato**: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)
-
-## 📚 Tecnologias que utilizo
-
-#### Desenvolvimento Front-End:
-- ![HTML5](https://img.shields.io/badge/-HTML5-FF5722?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-
-#### Desenvolvimento Back-End:
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![NGINX](https://img.shields.io/badge/-NGINX-green?style=flat-square&logo=nginx&logoColor=white)
-
-#### Ferramentas de desenvolvimento:
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-#### Sistemas Operacionais:
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggkooo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkooo&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
-## 🚀 Projetos
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- [Projeto Site de Delivery](https://github.com/ggkooo/delivery-application) - Focado em realizar pedidos com integração da API do WhatsApp.
-- [Projeto Cafeteria Serenatto](https://github.com/ggkooo/serenatto) - Focado em utilizar ao máximo as facilidades do framework Bootstrap.
-- [Projeto Meteora Store](https://github.com/ggkooo/meteora-store) - Front-end voltada para o desenvolvimento de um e-commerce utilizando o framework Bootstrap.
-
-## 📫 Como me encontrar
-
-- 📧 Email: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)
-- 💼 LinkedIn: [Giordano Bruno](https://br.linkedin.com/in/giordano-bruno-biasi-berwig-7182712b4)
+Desenvolvedor **Full-Stack** com foco em **soluções web escaláveis** e **experiência de usuário otimizada**. Estudante de **Ciência da Computação** na [UNIJUÍ](https://www.unijui.edu.br), sou movido por desafios técnicos e pelo desejo de construir ferramentas úteis e bem estruturadas.
 
 ---
 
-**Vamos criar algo incrível juntos!** 🚀
+## 🧠 Sobre mim
+
+- 🎓 Graduando em Ciência da Computação – **UNIJUÍ**
+- 💼 **Desenvolvedor Freelancer** | Criação de sites, APIs e sistemas personalizados
+- 💡 Estudando constantemente **PHP moderno**, **Laravel** e **TypeScript**
+- 📬 Contato: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+### 💻 Linguagens & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🧰 Ferramentas & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggkooo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkooo&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+---
+
+## 🌐 Contato
+
+- 📧 Email: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)  
+
+---
+
+> “Tecnologia bem aplicada não apenas resolve problemas — ela transforma realidades.”  
+> — Giordano Bruno
+
+---
+
+**Vamos criar algo incrível juntos.** 🚀
