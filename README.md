@@ -35,7 +35,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggkooo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkooo&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=ggkooo&theme=dark&hide_border=true" />
 </div>
 
 ---
