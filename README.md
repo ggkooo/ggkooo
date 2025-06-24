@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php,py,swift,go,sass,laravel,bootstrap)](https://skillicons.dev)
 
 ### 🧰 Tools & Workflow
-[![My Skills](https://skillicons.dev/icons?i=arch,git,docker,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,git,postman,docker,mysql)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
