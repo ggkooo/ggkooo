@@ -16,7 +16,7 @@
 ## 🛠️ Technologies I Use
 
 ### 💻 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,bootstrap,dart,cpp,qt,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,bootstrap,flutter,dart,cpp,qt,py)](https://skillicons.dev)
 
 ### 🧰 Tools & Workflow
 [![My Skills](https://skillicons.dev/icons?i=debian,vim,git,docker,mysql)](https://skillicons.dev)
