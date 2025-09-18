@@ -8,7 +8,7 @@
 
 - 🎓 Computer Science Student – **UNIJUÍ**
 - 💼 **Freelance Developer** | Building websites, APIs, and custom systems
-- 💡 Currently improving skills in **Modern PHP** and **Laravel**
+- 💡 Currently improving skills in **PHP**, **Laravel** and **React Native**
 - 📬 Contact: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)
 
 ---
