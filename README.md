@@ -1,25 +1,34 @@
 # 👨‍💻 Giordano Bruno Biasi Berwig
 
-**Full-Stack Developer** focused on **scalable web solutions** and **optimized user experiences**. Currently pursuing a **Computer Science degree** at [UNIJUÍ](https://www.unijui.edu.br), I'm driven by technical challenges and the desire to build useful and well-structured tools.
+**Full-Stack Developer** focused on building **scalable web applications**, **performant systems**, and **great user experiences**.
+
+Currently a **Computer Science student at UNIJUÍ** and working as a **Full-Stack Freelancer** and **Intern at UNIJUÍ**, constantly improving my skills and taking on real-world technical challenges.
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 Computer Science Student – **UNIJUÍ**
-- 💼 **Freelance Developer** | Building websites, APIs, and custom systems
-- 💡 Currently improving skills in **PHP**, **Laravel** and **React Native**
-- 📬 Contact: [giordanoberwig@proton.me](mailto:giordanoberwig@proton.me)
+- 💼 **Full-Stack Freelancer**
+- 🏢 **Intern at UNIJUÍ**
+- 🚀 Currently deepening my knowledge in:
+  - **Laravel**
+  - **React**
+  - **React Native**
+  - **TypeScript**
+- 🤝 Open to **new opportunities**, **networking**, and **technology events**
+- 📬 Contact: **giordanoberwig@proton.me**
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,react,js,sass,bootstrap,flutter,dart,cpp,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,react,ts,vite,tailwindcss,sass)](https://skillicons.dev)
 
 ### 🧰 Tools & Workflow
-[![My Skills](https://skillicons.dev/icons?i=linux,phpstorm,webstorm,git,docker,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,apple,vscode,git,docker,mysql)](https://skillicons.dev)
+
 ---
 
 ## 📊 GitHub Stats
@@ -30,4 +39,16 @@
 
 ---
 
-**Let's build something amazing together.** 🚀
+## 🌎 Professional Goals
+
+I’m focused on:
+
+- Building scalable and maintainable systems  
+- Improving software architecture skills  
+- Strengthening backend expertise with Laravel  
+- Creating modern and responsive interfaces with React & React Native  
+- Contributing to meaningful tech projects  
+
+---
+
+**Let’s build something amazing together. 🚀**
