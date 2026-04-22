@@ -39,6 +39,12 @@ Currently a **Computer Science student at UNIJUÍ** and working as a **Full-Stac
 
 ---
 
+<div align="center">
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=ggkooo&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="ggko's GitHub Trophy"/>
+</div>
+
+---
+
 ## 🌎 Professional Goals
 
 I’m focused on:
